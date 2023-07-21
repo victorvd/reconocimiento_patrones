@@ -1,1 +1,3 @@
-# reconocimiento_patrones
+# Pattern Recognition
+
+C++ codes to implement algorithms for pattern recognition
